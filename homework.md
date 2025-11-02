@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-Another one progremming language.
+Another one programming language.
 
 ## 3. What three problems does Git & GitHub solve?
 
@@ -20,7 +20,7 @@ You create your own copy of a specific project repository.
 
 ## 5. What happens when you clone a repository?
 
-You make a local repository of a remote repository.
+You make a local repository of the remote repository.
 
 ## 6. What is a Pull Request?
 
